@@ -24,6 +24,10 @@ def G(x):
         return 1 - (-x**2 + 4*x - 3)
 
 
+
+
+
+
 def monte_carlo_simulation():
     sample = []
     for _ in range(1000):
