@@ -1,4 +1,6 @@
-# Probability-Programming
+# Probability theory programming exercises
 
-This Repository contains of all solutions for the course "Programming Exercises for Probability Theory" for the second-year Mathematics students at BME
+This Repository contains all solutions for the course "Programming Exercises for Probability Theory" for second-year Mathematics students at BME.
+
+
 
